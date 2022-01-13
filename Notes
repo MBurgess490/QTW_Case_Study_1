@@ -1,0 +1,5 @@
+Notes for upload 1:
+I uploaded my code with 4 models: Linear, Lasso, Ridge, and Elastic
+You will need Yellowbricks and Seaborn. Everything else shoud be packaged into Anacondas
+The yellowbrick graphics throw an error, but it is safe to ignore. You will have to manually run these blocks though
+If you want just the model performance, scroll to the end of the file
