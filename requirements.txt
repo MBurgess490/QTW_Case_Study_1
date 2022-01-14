@@ -1,0 +1,10 @@
+xgboost
+pandas
+pandasql
+numpy
+seaborn
+matplotlib
+plotly
+yellowbrick
+sklearn
+
